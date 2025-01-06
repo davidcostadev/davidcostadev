@@ -23,8 +23,3 @@ Experienced JavaScript Developer skilled in e-commerce, management, chat, mobile
 ![graphql](https://img.shields.io/static/v1?logo=graphql&label=&message=graphql&color=36465D&logoColor=AAA&style=flat-square)
 ![nestjs](https://img.shields.io/static/v1?logo=nestjs&label=&message=nestjs&color=36465D&logoColor=AAA&style=flat-square)
 ![tailwindcss](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=tailwindcss&color=36465D&logoColor=AAA&style=flat-square)
-
-## Connect with Me
-
-- [linkedin.com/in/davidcostadev](https://www.linkedin.com/in/davidcostadev/)
-- [twitter.com/davidcostadev](https://www.twitter.com/davidcostadev/)
